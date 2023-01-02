@@ -1,0 +1,8 @@
+{
+  "name": "ecommapp",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/neohire/ecommapp",
+    "ssh": "git@github.com:neohire/ecommapp.git"
+  }
+}
